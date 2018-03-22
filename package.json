@@ -1,0 +1,29 @@
+{
+  "name": "webpack-demo",
+  "version": "1.0.0",
+  "description": "webpack demo and learing\u001b[D\u001b[D\u001b[Dning",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/beikehanbao23/webpackDemo.git"
+  },
+  "keywords": [
+    "webpack"
+  ],
+  "author": "hum",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/beikehanbao23/webpackDemo/issues"
+  },
+  "homepage": "https://github.com/beikehanbao23/webpackDemo#readme",
+  "dependencies": {
+    "colors": "^1.2.1"
+  },
+  "devDependencies": {
+    "url-loader": "^1.0.1",
+    "webpack": "^4.2.0"
+  }
+}

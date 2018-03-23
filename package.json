@@ -20,7 +20,9 @@
   },
   "homepage": "https://github.com/beikehanbao23/webpackDemo#readme",
   "dependencies": {
-    "colors": "^1.2.1"
+    "colors": "^1.2.1",
+    "google-polyline": "^1.0.0",
+    "google-protobuf": "^3.5.0"
   },
   "devDependencies": {
     "url-loader": "^1.0.1",

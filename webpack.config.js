@@ -1,3 +1,7 @@
-// 得到 webpack
-var webpack = require('atool-build/lib/webpack');
-
+module.exports = {
+    entry: './src/js/index.js',
+    output: {
+        // filename: './js/build[hash].js'
+        filename: './js/build.js'
+    }
+};
